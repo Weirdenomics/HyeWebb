@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    
+    
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>fb388982641488068</string>
+            </array>
+        </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>388982641488068</string>
+    <key>FacebookDisplayName</key>
+    <string>HyeWebb</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>fbapi</string>
+        <string>fb-messenger-api</string>
+        <string>fbauth2</string>
+        <string>fbshareextension</string>
+    </array>
+
+
+    
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>18431289440-da92g60ftkn9d5k4ipmv882lffun1pt4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.18431289440-da92g60ftkn9d5k4ipmv882lffun1pt4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9tT-vi6SDmi--YUziCJ92A1at848lbs0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>18431289440</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Weirdenomics.HyeWebb</string>
+	<key>PROJECT_ID</key>
+	<string>hyewebb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hyewebb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:18431289440:ios:cf73148c263b27e3</string>
+	<key>DATABASE_URL</key>
+	<string>https://hyewebb.firebaseio.com</string>
+</dict>
+</plist>
